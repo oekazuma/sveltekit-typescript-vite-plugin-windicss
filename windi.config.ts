@@ -1,7 +1,7 @@
-import { defineConfig } from 'windicss/helpers';
+import { defineConfig } from 'vite-plugin-windicss';
 
 export default defineConfig({
-  theme: {},
-  variants: {},
-  plugins: []
+	theme: {},
+	variants: {},
+	plugins: []
 });
